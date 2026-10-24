@@ -1,0 +1,40 @@
+{
+  "name": "itcube-site",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run typecheck && vite build",
+    "start": "node server/index.ts",
+    "admin": "node server/cli.ts",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit && tsc --noEmit -p tsconfig.node.json",
+    "build:static": "npm run typecheck && vite build --mode static",
+    "build:gh": "npm run typecheck && vite build --mode static --base=/itcube-site/ && node -e \"require('fs').copyFileSync('dist/index.html', 'dist/404.html')\""
+  },
+  "dependencies": {
+    "@fontsource-variable/manrope": "^5.1.1",
+    "@fontsource-variable/unbounded": "^5.1.1",
+    "framer-motion": "^11.18.2",
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-helmet-async": "^2.0.5",
+    "react-router-dom": "^6.30.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.19.2",
+    "@types/react": "^18.3.23",
+    "@types/react-dom": "^18.3.7",
+    "@vitejs/plugin-react": "^4.4.1",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^3.4.17",
+    "typescript": "~5.8.3",
+    "vite": "^6.3.5"
+  }
+}
