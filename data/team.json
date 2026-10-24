@@ -1,0 +1,265 @@
+[
+  {
+    "id": "ivanova-sn",
+    "name": "Иванова Саргылана Никитична",
+    "role": "Директор МБУ ДО «ЦТТ»",
+    "group": "leadership",
+    "directions": [],
+    "photo": null
+  },
+  {
+    "id": "nikolaev-vasiliy-vasilevich",
+    "name": "Николаев Василий Васильевич",
+    "role": "БОСС",
+    "group": "leadership",
+    "photo": "/uploads/2026/10/7a651f15-24ce-4b3e-9adc-6436dd4fe6db-3260c3.jpg",
+    "directions": []
+  },
+  {
+    "id": "popkov-an",
+    "name": "Попков Алексей Николаевич",
+    "role": "Руководитель ЦЦОД «IT-Куб.Якутск»",
+    "group": "leadership",
+    "photo": "/uploads/2026/10/hkfmqxriplyugfcwm2cdrs1wcwplymbwjo5eticw1y7x5bn8-feoeixz1mdg-b5ca65.jpg",
+    "directions": []
+  },
+  {
+    "id": "komyustyurova-ks",
+    "name": "Комюстюрова Кэрэчээнэ Степановна",
+    "role": "Старший методист ЦЦОД «IT-Куб.Якутск»",
+    "group": "leadership",
+    "directions": [],
+    "photo": null
+  },
+  {
+    "id": "vasileva-ae",
+    "name": "Васильева Анна Евгеньевна",
+    "role": "Старший методист ЦЦОД «IT-Куб.Якутск»",
+    "group": "leadership",
+    "directions": [],
+    "photo": null
+  },
+  {
+    "id": "polyatinskaya-mi",
+    "name": "Полятинская Мария Иннокентьевна",
+    "role": "Старший методист ЦЦОД «IT-Куб.Якутск»",
+    "group": "leadership",
+    "directions": [],
+    "photo": null
+  },
+  {
+    "id": "dyachkovskaya-aa",
+    "name": "Дьячковская Айталина Алексеевна",
+    "role": "Старший методист ЦЦОД «IT-Куб.Якутск»",
+    "group": "leadership",
+    "directions": [],
+    "photo": null
+  },
+  {
+    "id": "nikiforov-ds",
+    "name": "Никифоров Дмитрий Семенович",
+    "role": "Педагог-организатор ЦЦОД «IT-Куб.Якутск»",
+    "group": "leadership",
+    "directions": [],
+    "photo": null
+  },
+  {
+    "id": "baisheva-an",
+    "name": "Баишева Анастасия Николаевна",
+    "role": "Педагог-организатор ЦЦОД «IT-Куб.Якутск»",
+    "group": "leadership",
+    "directions": [],
+    "photo": null
+  },
+  {
+    "id": "savvinova-ne",
+    "name": "Саввинова Надежда Евгеньевна",
+    "role": "Педагог-организатор ЦЦОД «IT-Куб.Якутск»",
+    "group": "leadership",
+    "directions": [],
+    "photo": null
+  },
+  {
+    "id": "belolyubskiy-mm",
+    "name": "Белолюбский Михаил Михайлович",
+    "role": "Старший педагог дополнительного образования",
+    "group": "teacher",
+    "directions": [
+      "Программирование на языке Python",
+      "Web-разработка"
+    ],
+    "photo": null
+  },
+  {
+    "id": "vasileva-si",
+    "name": "Васильева Саргылана Ивановна",
+    "role": "Старший педагог дополнительного образования",
+    "group": "teacher",
+    "directions": [
+      "Программирование роботов",
+      "Робототехника"
+    ],
+    "photo": null
+  },
+  {
+    "id": "dyachkovskiy-nm",
+    "name": "Дьячковский Николай Михайлович",
+    "role": "Старший педагог дополнительного образования",
+    "group": "teacher",
+    "directions": [
+      "Системное администрирование",
+      "Программирование на языке Python",
+      "Web-разработка"
+    ],
+    "photo": null
+  },
+  {
+    "id": "dyachkovskaya-mn",
+    "name": "Дьячковская Марфа Николаевна",
+    "role": "Педагог дополнительного образования",
+    "group": "teacher",
+    "directions": [
+      "Шахматы"
+    ],
+    "photo": null
+  },
+  {
+    "id": "matveev-mv",
+    "name": "Матвеев Мирослав Васильевич",
+    "role": "Старший педагог дополнительного образования",
+    "group": "teacher",
+    "directions": [
+      "Программирование на языке Python"
+    ],
+    "photo": null
+  },
+  {
+    "id": "novgorodov-aa",
+    "name": "Новгородов Айисен Александрович",
+    "role": "Старший педагог дополнительного образования",
+    "group": "teacher",
+    "directions": [
+      "Основы алгоритмики и логики",
+      "GameDev-разработка игр"
+    ],
+    "photo": null
+  },
+  {
+    "id": "obutov-sp",
+    "name": "Обутов Сандал Прокопьевич",
+    "role": "Старший педагог дополнительного образования",
+    "group": "teacher",
+    "directions": [
+      "3D-моделирование и прототипирование"
+    ],
+    "photo": null
+  },
+  {
+    "id": "pahomov-ks",
+    "name": "Пахомов Константин Степанович",
+    "role": "Педагог дополнительного образования",
+    "group": "teacher",
+    "directions": [
+      "Космическая криминалистика",
+      "Разработка и прототипирование микроспутников",
+      "Дистанционное зондирование Земли"
+    ],
+    "photo": null
+  },
+  {
+    "id": "popova-ti",
+    "name": "Попова Татьяна Ивановна",
+    "role": "Старший педагог дополнительного образования",
+    "group": "teacher",
+    "directions": [
+      "Программирование роботов",
+      "МедиаПРО"
+    ],
+    "photo": null
+  },
+  {
+    "id": "prudetskiy-rk",
+    "name": "Прудецкий Роман Константинович",
+    "role": "Старший педагог дополнительного образования",
+    "group": "teacher",
+    "directions": [
+      "Разработка VR/AR приложений"
+    ],
+    "photo": null
+  },
+  {
+    "id": "sleptsova-as",
+    "name": "Слепцова Анита Сергеевна",
+    "role": "Старший педагог дополнительного образования",
+    "group": "teacher",
+    "directions": [
+      "Нескучная математика",
+      "Олимпиадная математика",
+      "Подготовка к ЕГЭ/ОГЭ по информатике"
+    ],
+    "photo": null
+  },
+  {
+    "id": "spiridonov-ne",
+    "name": "Спиридонов Нюргун Егорович",
+    "role": "Старший педагог дополнительного образования",
+    "group": "teacher",
+    "directions": [
+      "Motion-design"
+    ],
+    "photo": null
+  },
+  {
+    "id": "struchkov-ie",
+    "name": "Стручков Илларион Егорович",
+    "role": "Старший педагог дополнительного образования",
+    "group": "teacher",
+    "directions": [
+      "Программирование на языке C++",
+      "Яндекс Лицей: программирование на Python"
+    ],
+    "photo": null
+  },
+  {
+    "id": "tsypandina-sa",
+    "name": "Цыпандина Светлана Анатольевна",
+    "role": "Старший педагог дополнительного образования",
+    "group": "teacher",
+    "directions": [
+      "Графический дизайн"
+    ],
+    "photo": null
+  },
+  {
+    "id": "ivanov-ia",
+    "name": "Иванов Иван Александрович",
+    "role": "Старший педагог дополнительного образования",
+    "group": "teacher",
+    "directions": [
+      "Компьютерная графика",
+      "3D-моделирование и прототипирование"
+    ],
+    "photo": null
+  },
+  {
+    "id": "sergucheva-va",
+    "name": "Сергучева Вероника Акимовна",
+    "role": "Педагог дополнительного образования",
+    "group": "teacher",
+    "directions": [
+      "Архитектурный старт",
+      "3D проектирование в Revit Architecture"
+    ],
+    "photo": null
+  },
+  {
+    "id": "dabdasov-aa",
+    "name": "Дабдасов Алексей Анатольевич",
+    "role": "Педагог дополнительного образования",
+    "group": "teacher",
+    "directions": [
+      "3D-анимация в Blender"
+    ],
+    "photo": null
+  }
+]

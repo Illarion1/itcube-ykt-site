@@ -1,0 +1,114 @@
+[
+  {
+    "slug": "python",
+    "title": "Программирование на Python",
+    "kind": "core",
+    "short": "От линейных и циклических алгоритмов до игр, проектов, фреймворков и библиотек.",
+    "icon": "code"
+  },
+  {
+    "slug": "robotics",
+    "title": "Программирование роботов",
+    "kind": "core",
+    "short": "Конструирование и программирование роботов на наборах LEGO WeDo, NXT, EV3, VEX и Роббо.",
+    "icon": "bot"
+  },
+  {
+    "slug": "mobile",
+    "title": "Мобильная разработка",
+    "kind": "core",
+    "short": "Приложения для Android: курс IT-школы Samsung и язык Kotlin.",
+    "icon": "smartphone"
+  },
+  {
+    "slug": "sysadmin",
+    "title": "Системное администрирование",
+    "kind": "core",
+    "short": "Операционные системы, настройка оборудования, компьютерные сети и сетевые службы.",
+    "icon": "server"
+  },
+  {
+    "slug": "algorithms",
+    "title": "Основы алгоритмики и логики",
+    "kind": "core",
+    "short": "Первые шаги в программировании для младших школьников в среде Scratch.",
+    "icon": "puzzle"
+  },
+  {
+    "slug": "vr-ar",
+    "title": "Разработка VR/AR-приложений",
+    "kind": "core",
+    "short": "Создание приложений виртуальной и дополненной реальности.",
+    "icon": "glasses"
+  },
+  {
+    "slug": "web",
+    "title": "Web-разработка",
+    "kind": "extra",
+    "short": "Сайты на HTML, CSS и JavaScript, дизайн интерфейсов в Figma, веб на Python.",
+    "icon": "globe"
+  },
+  {
+    "slug": "design",
+    "title": "Графический дизайн",
+    "kind": "extra",
+    "short": "Photoshop, Illustrator, Figma и CorelDraw: цифровая живопись, пиксель-арт, полиграфия.",
+    "icon": "palette"
+  },
+  {
+    "slug": "gamedev",
+    "title": "Разработка игр",
+    "kind": "extra",
+    "short": "Игры в Scratch и GameMaker для младших, Unreal Engine — для старших.",
+    "icon": "gamepad"
+  },
+  {
+    "slug": "engineering",
+    "title": "Инженерия и 3D-прототипирование",
+    "kind": "extra",
+    "short": "3D-моделирование в «Компас-3D», печать на 3D-принтере, Arduino и микроэлектроника.",
+    "icon": "box"
+  },
+  {
+    "slug": "media",
+    "title": "3D-анимация и видеомонтаж",
+    "kind": "extra",
+    "short": "Анимация и моушн-дизайн в Blender, монтаж видеороликов.",
+    "icon": "clapperboard"
+  },
+  {
+    "slug": "space",
+    "title": "Космические технологии",
+    "kind": "extra",
+    "short": "Разработка микроспутников, анализ спутниковых снимков и ГИС-технологии.",
+    "icon": "satellite"
+  },
+  {
+    "slug": "architecture",
+    "title": "Архитектура и 3D-проектирование",
+    "kind": "extra",
+    "short": "Архитектурное творчество, проектирование пространств и моделирование в Revit.",
+    "icon": "building"
+  },
+  {
+    "slug": "informatics",
+    "title": "Информатика и C++",
+    "kind": "extra",
+    "short": "Программирование на C++ и основы информационных технологий для старшеклассников.",
+    "icon": "binary"
+  },
+  {
+    "slug": "math",
+    "title": "Математика",
+    "kind": "extra",
+    "short": "Задачи на логику и математика за рамками школьной программы.",
+    "icon": "sigma"
+  },
+  {
+    "slug": "games",
+    "title": "Го и шахматы",
+    "kind": "extra",
+    "short": "Правила, приёмы и стратегии, участие в турнирах.",
+    "icon": "crown"
+  }
+]

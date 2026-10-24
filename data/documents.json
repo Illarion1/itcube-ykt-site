@@ -1,0 +1,353 @@
+[
+  {
+    "slug": "programs",
+    "title": "Общеобразовательные программы IT-куба",
+    "page": "documents",
+    "items": [
+      {
+        "title": "«Программирование Java»",
+        "url": "/docs/programs-01.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/java.pdf"
+      },
+      {
+        "title": "«Разработка VR/AR приложений»",
+        "url": "/docs/programs-02.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/VRAR.pdf"
+      },
+      {
+        "title": "«Программирование на языке Python»",
+        "url": "/docs/programs-03.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Python.pdf"
+      },
+      {
+        "title": "«Программирование роботов»",
+        "url": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Программирование-роботов.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Программирование-роботов.pdf"
+      },
+      {
+        "title": "«Системное администрирование» (72 часа)",
+        "url": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Системное-администрорование-72-часа.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Системное-администрорование-72-часа.pdf"
+      },
+      {
+        "title": "«Системное администрирование» (144 часа)",
+        "url": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Системное-администрование-144-часа.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Системное-администрование-144-часа.pdf"
+      },
+      {
+        "title": "«Основы алгоритмики и логики»",
+        "url": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Основы-алгоритмики-и-логики.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Основы-алгоритмики-и-логики.pdf"
+      },
+      {
+        "title": "«Программирование роботов» (72 часа)",
+        "url": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/прогр-робот-72-часа.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/прогр-робот-72-часа.pdf"
+      },
+      {
+        "title": "«Программирование роботов» (144 часа)",
+        "url": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/прогр-робот-144-часа.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/прогр-робот-144-часа.pdf"
+      },
+      {
+        "title": "«Программирование Java»",
+        "url": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Программирование-Java.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Программирование-Java.pdf"
+      },
+      {
+        "title": "Программа обучения IT Школы Samsung",
+        "url": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Программа-обучения-IT-Школы-Samsung-на-2020-2021-учебный-год.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Программа-обучения-IT-Школы-Samsung-на-2020-2021-учебный-год.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "federal",
+    "title": "Документы федерального уровня",
+    "page": "documents",
+    "items": [
+      {
+        "title": "Приказ Министерства науки и высшего образования РФ (Минобрнауки России) №1125 «Об утверждении перечня олимпиад школьников и их уровней на 2020/21 учебный год»",
+        "url": "/docs/federal-01.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/0001202010020035.pdf"
+      },
+      {
+        "title": "Приказ Министерства просвещения РФ (Минпросвещения России) №715 от 11.12.2020 «Об утверждении перечня олимпиад и иных интеллектуальных и (или) творческих конкурсов, мероприятий, направленных на развитие интеллектуальных и творческих способностей, способностей к занятиям физической культурой и спортом, интереса к научной (научно-исследовательской), инженерно-технической, изобретательской, творческой, физкультурно-спортивной деятельности, а также на пропаганду научных знаний, творческих и спортивных достижений, на 2020/21 учебный год»",
+        "url": "/docs/federal-02.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/0001202103010030.pdf"
+      },
+      {
+        "title": "«Методические рекомендации для субъектов Российской Федерации по вопросам реализации основных и дополнительных общеобразовательных программ в сетевой форме» (утв. Минпросвещения России 28.06.2019 № МР-81/02вн)",
+        "url": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Метод.рекомендации-Мин.просвещения.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Метод.рекомендации-Мин.просвещения.pdf"
+      },
+      {
+        "title": "Распоряжение Министерства просвещения РФ (Минпросвещения России) №Р-5 от 12.01.2021 «Об утверждении методических рекомендаций по созданию и функционированию центров цифрового образования «IT-куб»»",
+        "url": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Р-5-от-12.01.2021-ИТ-КУБ.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Р-5-от-12.01.2021-ИТ-КУБ.pdf"
+      },
+      {
+        "title": "Распоряжение Министерства просвещения РФ (Минпросвещения России) №Р-138 от 17.12.2019 «Об утверждении методических рекомендаций по созданию центров цифрового образования детей «IT-куб» в рамках региональных проектов, обеспечивающих достижение целей, показателей и результата федерального проекта «Цифровая образовательная среда» национального проекта «Образование», и признании утратившим силу распоряжения Минпросвещения России от 1 марта 2019 г. N Р-24 «Об утверждении методических рекомендаций по созданию и функционированию центров цифрового образования «IT-куб»»",
+        "url": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Р-138-ИТ_куб-на-2020-год.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Р-138-ИТ_куб-на-2020-год.pdf"
+      },
+      {
+        "title": "Федеральный закон от 29.12.2012 N 273-ФЗ «Об образовании в Российской Федерации»",
+        "url": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Федеральный-закон-от-29.12.2012-№-273-ФЗ-Об-образовании-в-Российской-Федерации.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Федеральный-закон-от-29.12.2012-№-273-ФЗ-Об-образовании-в-Российской-Федерации.pdf"
+      },
+      {
+        "title": "Приказ Министерства науки и высшего образования РФ (Минобрнауки России) №882/391 от 05.08.2020 «Об организации и осуществлении образовательной деятельности при сетевой форме реализации образовательных программ»",
+        "url": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Приказ-от-05.08.2020-№-882391-Об-организации-и-осуществлении-образов.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Приказ-от-05.08.2020-№-882391-Об-организации-и-осуществлении-образов.pdf"
+      },
+      {
+        "title": "Приказ Министерство науки и высшего образования РФ №845, Министерство просвещения российской федерации №369 от 30 июля 2020 года «Об утверждении порядка зачета организацией, осуществляющей образовательную деятельность, результатов освоения обучающимися учебных предметов, курсов, дисциплин (модулей), практики, дополнительных образовательных программ в других организациях, осуществляющих образовательную деятельность»",
+        "url": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Приказ-Минобрнауки-РФ-N-845-Минпросвещения-РФ-N-369-от-30.07.2020-Об-утверждении-порядка-зачета.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Приказ-Минобрнауки-РФ-N-845-Минпросвещения-РФ-N-369-от-30.07.2020-Об-утверждении-порядка-зачета.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "regional",
+    "title": "Документы регионального и муниципального уровня",
+    "page": "documents",
+    "items": [
+      {
+        "title": "Распоряжение главы РС(Я) № 504-РГ «О создании центров цифрового образования «IT-куб» в Республике Саха (Якутия) в рамках федерального проекта «Цифровая образовательная среда» национального проекта «Образование»»",
+        "url": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/504-РГ-2.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/504-РГ-2.pdf"
+      },
+      {
+        "title": "Распоряжение главы РС(Я) №696-РГ «О внесении изменений в распоряжение Главы Республики Саха (Якутия) от 05 июля 2019 г. № 504-РГ «О создании центров цифрового образования «IT-куб» в Республике Саха (Якутия) в рамках федерального проекта «Цифровая образовательная среда» национального проекта «Образование»»",
+        "url": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/696-РГ.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/696-РГ.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "local",
+    "title": "Локальные акты образовательной организации",
+    "page": "documents",
+    "items": [
+      {
+        "title": "Приказ директора МБУ ДО ЦТТ №639/3-ОД от 31.05.2021г. «О создании структурного подразделения Центра цифрового образования «IT-куб» на базе МБУ ДО ЦТТ»",
+        "url": "http://itcube.yaguo.ru/wp-content/uploads/2021/09/Приказ-о-создании-IT-куб.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/09/Приказ-о-создании-IT-куб.pdf"
+      },
+      {
+        "title": "Приказ директора МБУ ДО ЦТТ №647-ОД от 23.08.2021 «О назначении ответственного за функционирование и развитие Центра «IT-куб»»",
+        "url": "http://itcube.yaguo.ru/wp-content/uploads/2021/09/Приказ-о-назначении-ответственного-IT-куб.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/09/Приказ-о-назначении-ответственного-IT-куб.pdf"
+      },
+      {
+        "title": "Информационная справка по приведению площадки центров цифрового образования «IT-куб» в соответствии с методическими рекомендациями",
+        "url": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Информационная-справка-IT-куб.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Информационная-справка-IT-куб.pdf"
+      },
+      {
+        "title": "Информация о повышении квалификации педагогических работников центра цифрового образования «IT-куб» Муниципального бюджетного учреждения дополнительного образования «Центр технического творчества» городского округа «город Якутск»",
+        "url": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Информация-о-повышении-квалификации-педагогических-работников-IT-куб.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/08/Информация-о-повышении-квалификации-педагогических-работников-IT-куб.pdf"
+      },
+      {
+        "title": "Приказ директора МБУ ДО ЦТТ №644/1 от 08.08.2021 «Об утверждении дополнительных общеобразовательных программ педагогов дополнительного образования Центра цифрового образования «IT-куб» на 2021-2022 учебный год»",
+        "url": "/docs/local-05.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/09/null.pdf"
+      },
+      {
+        "title": "Приказ директора МБУ ДО ЦТТ №662-ОД от 20.09.2021 «Об организации набора учащихся в IT школу Samsung в очной форме с 21-24 сентября 2021 года»",
+        "url": "http://itcube.yaguo.ru/wp-content/uploads/2021/09/Приказ-662-ОД.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/09/Приказ-662-ОД.pdf"
+      },
+      {
+        "title": "Приказ №664-ОД от 25.09.2021 «О временном приостановлении учебного и воспитательного процесса в МБУ ДО ЦТТ ГО «город Якутск» по санитарно-эпидемиологическим условиям»",
+        "url": "http://itcube.yaguo.ru/wp-content/uploads/2021/09/664-ОД.pdf",
+        "originalUrl": "http://itcube.yaguo.ru/wp-content/uploads/2021/09/664-ОД.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "education",
+    "title": "Образование",
+    "page": "documents",
+    "items": [
+      {
+        "title": "Образовательная программа МБУ ДО ЦТТ на 2022-2023 учебный год",
+        "url": "https://ctt.yaguo.ru/obrazovatelnaya-programma-mbu-do-tstt-na-2022-2023-uchebnyj-god"
+      },
+      {
+        "title": "Учебный план МБУ ДО ЦТТ на 2022-2023 учебный год",
+        "url": "http://ctt.yaguo.ru/wp-content/uploads/2022/10/ITOG-Uchebnyj-plan-na-2022-2023-uchebnyj-god.pdf"
+      },
+      {
+        "title": "Календарный учебный график на 2022-2023 учебный год",
+        "url": "http://ctt.yaguo.ru/wp-content/uploads/2022/10/Godovoj-Kalend-plan-1.pdf"
+      },
+      {
+        "title": "Информация о реализуемых образовательных программах",
+        "url": "https://ctt.yaguo.ru/wp-content/uploads/2022/06/Prikaz-o-DOOP-OD-656-4.pdf"
+      },
+      {
+        "title": "О реализуемых образовательных программах",
+        "url": "https://ctt.yaguo.ru/wp-content/uploads/2022/10/ob-utverzhdenii-DOP-programm.pdf"
+      },
+      {
+        "title": "О формах обучения",
+        "url": "http://ctt.yaguo.ru/wp-content/uploads/2022/11/ob-uchebnyh-predmetah-kursah-distsiplinah-1.pdf"
+      },
+      {
+        "title": "О нормативных сроках обучения",
+        "url": "https://ctt.yaguo.ru/wp-content/uploads/2022/06/Prikaz-o-DOOP-OD-656-4.pdf"
+      },
+      {
+        "title": "Аннотации к дополнительным общеобразовательным программам на 2022–2023 учебный год",
+        "url": "http://ctt.yaguo.ru/wp-content/uploads/2022/12/Annotatsii-k-dopolnitelnym-obshheobrazovatelnym-obshherazvivayushhim-programmam.pdf"
+      },
+      {
+        "title": "Использование при реализации образовательных программ электронного обучения и дистанционных образовательных технологий (см. раздел «дистанционное образование»)",
+        "url": "http://ctt.yaguo.ru/d0-b4-d0-b8-d1-81-d1-82-d0-b0-d0-bd-d1-86-d0-b8-d0-be-d0-bd-d0-bd-d0-be-d0-b5-d0-be-d0-b1-d1-80-d0-b0-d0-b7-d0-be-d0-b2-d0-b0-d0-bd-d0-b8-d0-b5"
+      },
+      {
+        "title": "Расписание кружковых занятий на базе центра технического творчества",
+        "url": "http://ctt.yaguo.ru/wp-content/uploads/2022/10/15.50-17.303_page-0001-1.pdf"
+      },
+      {
+        "title": "Расписание кружковых занятий центра цифрового образования «IT-куб»",
+        "url": "http://ctt.yaguo.ru/wp-content/uploads/2022/10/Raspisanie-kub.pdf"
+      },
+      {
+        "title": "Расписание кружковых занятий на базе школ",
+        "url": "http://ctt.yaguo.ru/wp-content/uploads/2022/10/Cy660Ta_page-0001.pdf"
+      },
+      {
+        "title": "Места осуществления образовательной деятельности при использовании сетевой формы реализации образовательных программ на 2022-2023 учебный год",
+        "url": "http://ctt.yaguo.ru/wp-content/uploads/2022/10/Spisok-realizuemyh-DOOP-na-baze-shkol-na-2022.pdf"
+      },
+      {
+        "title": "Методические документы и разработки",
+        "url": "http://ctt.yaguo.ru/metodicheskie-dokumentyi-i-razrabotki/"
+      },
+      {
+        "title": "Методические и иные документы, разработанные образовательной организацией для обеспечения образовательного процесса, в виде электронного документа",
+        "url": "http://ctt.yaguo.ru/metodicheskie-i-inye-dokumenty-dlya-obespecheniya-obrazovatelnogo-protsessa"
+      },
+      {
+        "title": "Программа воспитания МБУ ДО ЦТТ 2022-2023",
+        "url": "http://ctt.yaguo.ru/wp-content/uploads/2022/10/Programma-vospitaniya-.pdf"
+      },
+      {
+        "title": "Лицензия",
+        "url": "http://ctt.yaguo.ru/wp-content/uploads/2022/06/Litsenziya_merged.pdf"
+      },
+      {
+        "title": "Общая численность обучающихся",
+        "url": "http://ctt.yaguo.ru/wp-content/uploads/2022/06/e79ded44-1fee-438a-91c8-18c0d3208192.jpg"
+      },
+      {
+        "title": "Численность обучающихся, являющихся иностранными гражданами",
+        "url": "https://ctt.yaguo.ru/chislennost-obuchayushhihsya-yavlyayushhihsya-inostrannymi-grazhdanami"
+      },
+      {
+        "title": "Язык образования",
+        "url": "http://ctt.yaguo.ru/wp-content/uploads/2021/11/OT-30-aBrycra-2021-r.pdf"
+      },
+      {
+        "title": "О практике предусмотренной соответствующей образовательной программой",
+        "url": "https://ctt.yaguo.ru/o-praktike-predusmotrennoj-sootvetstvuyushhej-obrazovatelnoj-programmoj"
+      },
+      {
+        "title": "Об учебных предметах, курсах, дисциплинах (модулях) на 2022-2023 учебный год",
+        "url": "http://ctt.yaguo.ru/wp-content/uploads/2022/10/ob-uchebnyh-predmetah-kursah-distsiplinah.pdf"
+      },
+      {
+        "title": "План основных мероприятий на 2022-2023 учебный год",
+        "url": "http://ctt.yaguo.ru/wp-content/uploads/2022/10/plan-osnovnyh-meropriyatij-tstsod-it-kub-22-23-uch.god-sentyabr-dekabr.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "organization",
+    "title": "Документы Центра технического творчества",
+    "page": "documents",
+    "items": [
+      {
+        "title": "Устав",
+        "url": "http://ctt.yaguo.ru/wp-content/uploads/2017/03/USTAV-TSTT.pdf"
+      },
+      {
+        "title": "Лицензия",
+        "url": "http://ctt.yaguo.ru/wp-content/uploads/2017/03/Litsenziya.pdf"
+      },
+      {
+        "title": "План финансово-хозяйственной деятельности образовательной организации",
+        "url": "http://ctt.yaguo.ru/plan-finansovo-hozyaystvennoy-deyatelnosti-obrazovatelnoy-organizatsii/"
+      },
+      {
+        "title": "Локальные нормативные акты, предусмотренные частью 2 статьи 30 Федерального Закона «Об образовании в Российской Федерации»",
+        "url": "http://ctt.yaguo.ru/http-ctt-yaguo-ru-http-ctt-yaguo-ru-http-ctt-yaguo-ru-pravila-priema"
+      },
+      {
+        "title": "Отчет о результатах самообследования",
+        "url": "http://ctt.yaguo.ru/otchety-o-rezultatah-samoobsledovaniya"
+      },
+      {
+        "title": "Предписания органов, осуществляющих государственный контроль (надзор) в сфере образования, отчеты об исполнении таких предписаний",
+        "url": "http://ctt.yaguo.ru/predpisaniya-organov-osushhestvlyayushhih-gosudarstvennyiy-kontrol-nadzor-v-sfere-obrazovaniya-otchetyi-ob-ispolnenii-takih-predpisaniy/"
+      },
+      {
+        "title": "Правила внутреннего распорядка учащихся МБУ ДО «Центр технического творчества»",
+        "url": "http://ctt.yaguo.ru/wp-content/uploads/2021/05/Pravila-vnutrennego-rasporyadka-uchashhihsya.pdf"
+      },
+      {
+        "title": "Правила внутреннего трудового распорядка",
+        "url": "http://ctt.yaguo.ru/wp-content/uploads/2021/01/pravila-vnutrennego-rasporyadka.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "events-plan",
+    "title": "Планы мероприятий",
+    "page": "events-plan",
+    "items": [
+      {
+        "title": "План мероприятий на 2024–2025 учебный год",
+        "url": "/docs/events-plan-2024-2025.pdf"
+      },
+      {
+        "title": "План мероприятий на 2022–2023 учебный год (сентябрь–декабрь)",
+        "url": "/docs/events-plan-2022-2023.pdf"
+      },
+      {
+        "title": "План мероприятий на 2021–2022 учебный год",
+        "url": "/docs/events-plan-2021-2022.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "vacancies",
+    "title": "Вакантные места",
+    "page": "vacancies",
+    "items": [
+      {
+        "title": "Вакантные места ЦЦОД «IT-куб.Якутск» на 2023–2024 учебный год",
+        "url": "https://disk.yandex.ru/i/_JIR4FfDWDRm8w"
+      },
+      {
+        "title": "Вакантные места МБУ ДО ЦТТ на 2023–2024 учебный год",
+        "url": "https://docs.google.com/spreadsheets/d/1R7H3eN4cziQXSwEHWv6ewOGsR8RjDdNBwyKWkwrhu8g/edit#gid=0"
+      }
+    ]
+  },
+  {
+    "slug": "schedule",
+    "title": "Утверждённое расписание",
+    "page": "schedule",
+    "items": [
+      {
+        "title": "Расписание кружковых занятий на 2025–2026 учебный год (приказ № 115-ОД от 30.09.2025)",
+        "url": "/docs/schedule-2025-2026.pdf"
+      }
+    ]
+  }
+]
