@@ -110,7 +110,8 @@ data/      рабочая «база» сайта — её меняет адми
 | `npm start` | Запуск собранного сайта на сервере (после `npm run build`) |
 | `npm run preview` | Посмотреть собранный сайт на своём компьютере |
 | `npm run build:static` | Статическая сборка без админ-панели (Vercel, любой хостинг для HTML) |
-| `npm run build:gh` | То же для GitHub Pages (сайт в подпапке `/itcube-site/`) |
+| `npm run build:gh` | То же для GitHub Pages (сайт в подпапке `/itcube-ykt-site/`) |
+| `npm run deploy:gh` | Собрать и опубликовать сайт на GitHub Pages (ветка `gh-pages`) |
 
 ## Технологии
 
@@ -123,6 +124,8 @@ React Router (у каждой страницы свой адрес), Framer Moti
 ```
 content/            начальные данные разделов (см. «Где хранятся данные»)
 public/             файлы «как есть»: фото кабинетов, PDF-документы, иконка, картинка для соцсетей
+scripts/
+  deploy-gh.mjs     публикация собранного сайта на GitHub Pages (npm run deploy:gh)
 server/             сервер: данные, вход, загрузка файлов (работает и внутри npm run dev, и в npm start)
   app.ts            адреса /api, /data, /uploads
   applications.ts   заявки с сайта: приём, проверка мест, статусы
@@ -248,9 +251,12 @@ pm2 restart itcube
 и выберите репозиторий. `vercel.json` уже настроен (статическая сборка, прямые ссылки вида `/news/8153`).
 В **Settings → Environment Variables** добавьте `VITE_SITE_URL` = адрес сайта и пересоберите проект.
 
-**GitHub Pages**: если репозиторий называется не `itcube-site`, замените `/itcube-site/` в команде
-`build:gh` в `package.json`. Выполните `npm run build:gh` и опубликуйте содержимое `dist` в ветку
-`gh-pages` (например, `npx gh-pages -d dist`), затем включите Pages в настройках репозитория.
+**GitHub Pages**: сайт опубликован по адресу https://illarion1.github.io/itcube-ykt-site/.
+Чтобы обновить его (например, после правок в админ-панели на своём компьютере), выполните
+`npm run deploy:gh`: команда соберёт сайт с текущими данными из `data` и отправит его в ветку `gh-pages`,
+через 1–2 минуты изменения появятся на сайте. Если переименуете репозиторий, замените `/itcube-ykt-site/`
+в команде `build:gh` в `package.json`. В настройках репозитория (Settings → Pages) источник —
+ветка `gh-pages`, папка `/ (root)`.
 
 ## Что нужно заменить реальными данными
 
